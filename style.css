@@ -1,5 +1,5 @@
 <style>
-#hesapMakinesi {
+#hesablama {
   margin: 0 auto;
   width: 350px;
   height: auto;
@@ -13,7 +13,7 @@
   text-align: center;
 }
 
-#sonuc {
+#son {
   padding: 10px;
   width: 90%;
   border: none;
@@ -23,7 +23,7 @@
   word-wrap: break-word;
 }
 
-#sayilar {
+#reqemler {
   text-align: center;
 }
 
